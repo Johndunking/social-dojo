@@ -17,8 +17,7 @@ const Home = () => {
 
 
   const userInfo = fetchUser();
-  console.log(userInfo)
-  console.log(userInfo.userName);
+ 
   
 
   useEffect(() => {
