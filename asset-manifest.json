@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/social-dojo/static/css/main.68dbbd51.css",
+    "main.js": "/social-dojo/static/js/main.56ff4e3a.js",
+    "static/js/726.0e0f5172.chunk.js": "/social-dojo/static/js/726.0e0f5172.chunk.js",
+    "static/media/dojoVideo.mp4": "/social-dojo/static/media/dojoVideo.37bde3a82f7c5a927458.mp4",
+    "static/media/Dojo1.png": "/social-dojo/static/media/Dojo1.01bdd0a31939f1e3087d.png",
+    "index.html": "/social-dojo/index.html",
+    "main.68dbbd51.css.map": "/social-dojo/static/css/main.68dbbd51.css.map",
+    "main.56ff4e3a.js.map": "/social-dojo/static/js/main.56ff4e3a.js.map",
+    "726.0e0f5172.chunk.js.map": "/social-dojo/static/js/726.0e0f5172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68dbbd51.css",
+    "static/js/main.56ff4e3a.js"
+  ]
+}
