@@ -4,10 +4,13 @@ import './index.css';
 import { BrowserRouter as Router} from 'react-router-dom';
 import App from './App';
 import { HashRouter } from 'react-router-dom'
+import ReactDOM from 'react-dom/client';
 
- const root = createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-<HashRouter>
+  <React.StrictMode>
+    <HashRouter>
     <App />
     </HashRouter>
-    );
+  </React.StrictMode>
+);
